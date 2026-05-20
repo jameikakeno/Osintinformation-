@@ -42,17 +42,24 @@ Adım | İşlem
 📁 Örnek Çıktılar
 
 Telefon Sorgulama:
+
 [+] Telefon: +90 5XX XXX XX XX
 
 [+] Ülke: Türkiye
 
 [+] Operatör: Turkcell
+
 [+] WhatsApp: https://wa.me/90...
 
+
 IP Sorgulama:
+
 [+] IP: 8.8.8.8
+
 [+] Ülke: United States
+
 [+] Şehir: Mountain View
+
 [+] ISP: Google LLC
 
 ---
