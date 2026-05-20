@@ -52,6 +52,7 @@ Telefon Sorgulama:
 [+] WhatsApp: https://wa.me/90...
 
 
+
 IP Sorgulama:
 
 [+] IP: 8.8.8.8
