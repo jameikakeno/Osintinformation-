@@ -43,7 +43,9 @@ Adım | İşlem
 
 Telefon Sorgulama:
 [+] Telefon: +90 5XX XXX XX XX
+
 [+] Ülke: Türkiye
+
 [+] Operatör: Turkcell
 [+] WhatsApp: https://wa.me/90...
 
